@@ -1,3 +1,3 @@
 struct ros2Int{
-    long msg;
+    long data;
 };
